@@ -20,7 +20,7 @@ I'm proficient in a variety of programming languages and technologies, including
 I'm enthusiastic about expanding my skill set and eagerly welcome opportunities to learn new languages and technologies.
 
 ## 👨🏽‍💻 Projects
-Here's a glimpse into some of the exciting projects you'll find in this repository:
+Here's a glimpse into some of the exciting projects you'll find in my profile:
 
 - **No Hesi 🚘**: Experience the adrenaline rush of navigating through traffic in this thrilling 3D racing game. Dodge cars and obstacles as you race towards the finish line. [Play here](https://ecabreja623.itch.io/no-hesi).
 
