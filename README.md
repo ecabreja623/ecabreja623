@@ -22,9 +22,9 @@ I'm enthusiastic about expanding my skill set and eagerly welcome opportunities 
 ## 👨🏽‍💻 Projects
 Here's a glimpse into some of the exciting projects you'll find in this repository:
 
-- **No Hesi 🚘**: Experience the adrenaline rush of navigating through traffic in this thrilling 3D racing game. Dodge cars and obstacles as you race towards the finish line.
+- **No Hesi 🚘**: Experience the adrenaline rush of navigating through traffic in this thrilling 3D racing game. Dodge cars and obstacles as you race towards the finish line. [Play here](https://ecabreja623.itch.io/no-hesi).
 
-- **A Room 💣**: Immerse yourself in a gripping narrative as you uncover clues and solve puzzles in a small room to defuse a bomb. Can you escape in time?
+- **A Room 💣**: Immerse yourself in a gripping narrative as you uncover clues and solve puzzles in a small room to defuse a bomb. Can you escape in time? [Play here](https://ecabreja623.itch.io/a-room).
 
 - **Put Me On 🎧**: Share your favorite tunes and discover new music on this interactive website. Upload songs, connect with friends, and explore a community-driven platform for music lovers.
 
