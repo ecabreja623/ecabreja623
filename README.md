@@ -1,5 +1,9 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/ecabreja623">Elvis Cabreja <a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /></h1>
 
+<p align="center">
+    <img width="200" src="https://github.com/ecabreja623/ecabreja623/blob/main/elvis.jpg">
+</p>
+
 ## 🫡 About Me
 🗽 Full stack software engineer based in New York City, hailing from the beautiful Dominican Republic 🇩🇴<br>
 🎓 Computer science graduate from NYU Tandon School of Engineering 💜<br>
