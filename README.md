@@ -7,7 +7,7 @@
 ## 🫡 About Me
 🗽 Full stack software engineer based in New York City, hailing from the beautiful Dominican Republic 🇩🇴<br>
 🎓 Computer science graduate from NYU Tandon School of Engineering 💜<br>
-😁 When I'm not immersed in coding, you'll often find me indulging my passions for cars 🚗, sports ⚽️, or video games 🎮<br>
+😁 When I'm not immersed in coding, you'll often find me indulging my passions for cars 🚗, sports ⚽️, or video games 🎮 whether I'm playing or making them (play some of the games I've made [here](https://ecabreja623.itch.io/))<br>
 
 ## 💻 Tech Stack
 I'm proficient in a variety of programming languages and technologies, including but not limited to:
